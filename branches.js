@@ -6,5 +6,5 @@ const app2=()=>{
     return "hello app2"
     }
     const app3=()=>{
-        alert( "hello app2")
+        alert( "hello app3")
         }
