@@ -7,7 +7,4 @@ const app2=()=>{
     }
 
     
-    const app3=()=>{
-       return 3
-
-        }
+    
