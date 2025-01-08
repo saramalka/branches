@@ -1,4 +1,3 @@
-const app1=()=>{
-return 17
-}
-
+const app1 = () => {
+    return 17;
+  };

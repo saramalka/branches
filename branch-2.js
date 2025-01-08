@@ -1,3 +1,3 @@
-const app1=()=>{
-    console.log("hi")
-    }
+const app1 = () => {
+    console.log("hi");
+  };
