@@ -1,4 +1,4 @@
 const app1=()=>{
-return 1
+alert("hi branch-2")
 }
 
